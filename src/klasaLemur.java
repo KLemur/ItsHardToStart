@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class klasaLemur{
 	public static void main(String [] args){
 		//System.out.println("Podaj ilość kolumn");
-		String [] dane;
+		String dane[];
 		dane = new String[3];
 
 		//int n;
